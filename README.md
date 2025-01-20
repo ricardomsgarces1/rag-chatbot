@@ -13,4 +13,6 @@ Please note:
 - Python installed on your system (preferably version 3.8 or higher).
 
 ## Want to learn more?
-Check out this tutorial on how to use RAG to create an AI expert about your Company: https://medium.com/@ricardomsgarces/using-rag-to-create-an-ai-expert-about-your-company-dff6f9a11537
+Using this source code, I've created a working example of the chatbot using Gradio and deployed it on Hugging Face Spaces. You can try it out here: https://huggingface.co/spaces/RicardoGarces/demo-cisco-devnet-docs-chatbot
+
+Check out also this tutorial on how to use RAG to create an AI expert about your Company: https://medium.com/@ricardomsgarces/using-rag-to-create-an-ai-expert-about-your-company-dff6f9a11537
