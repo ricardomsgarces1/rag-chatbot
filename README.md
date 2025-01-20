@@ -7,7 +7,10 @@ Please note:
 - The information provided by this chatbot may be outdated or incorrect.
 - For accurate and up-to-date information, always refer to the official Cisco Developer documentation: Cisco DevNet Docs.
 
-# Prerequisites
+## Prerequisites
 - Basic knowledge of Python.
 - An OpenAI API key.
 - Python installed on your system (preferably version 3.8 or higher).
+
+## Want to learn more?
+Check out this tutorial on how to use RAG to create an AI expert about your Company: https://medium.com/@ricardomsgarces/using-rag-to-create-an-ai-expert-about-your-company-dff6f9a11537
