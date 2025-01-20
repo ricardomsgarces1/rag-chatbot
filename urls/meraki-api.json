@@ -1,0 +1,176 @@
+{
+    "urls": [
+        {
+            "url": "meraki-dashboard-api",
+            "name": "Meraki Dashboard API"
+        },
+        {
+            "url": "introduction",
+            "name": "Introduction"
+        },
+        {
+            "url": "getting-started",
+            "name": "Getting Started"
+        },
+        {
+            "url": "authorization",
+            "name": "Authorization"
+        },
+        {
+            "url": "errors",
+            "name": "Errors"
+        },
+        {
+            "url": "rate-limit",
+            "name": "Rate Limit"
+        },
+        {
+            "url": "user-agents-overview",
+            "name": "User Agents"
+        },
+        {
+            "url": "versioning",
+            "name": "Versioning"
+        },
+        {
+            "url": "action-batches",
+            "name": "Action Batches"
+        },
+        {
+            "url": "callbacks",
+            "name": "Callbacks"
+        },
+        {
+            "url": "path-parameters",
+            "name": "Path Parameters"
+        },
+        {
+            "url": "pagination",
+            "name": "Pagination"
+        },
+        {
+            "url": "query-parameters",
+            "name": "Query Parameters"
+        },
+        {
+            "url": "schema",
+            "name": "Path Schema"
+        },
+        {
+            "url": "webhooks",
+            "name": "Webhooks"
+        },
+        {
+            "url": "api-index",
+            "name": "API Index"
+        },
+        {
+            "url": "overview",
+            "name": "Overview"
+        },
+        {
+            "url": "secureconnect-configure",
+            "name": "Configure"
+        },
+        {
+            "url": "secureconnect-monitor",
+            "name": "Monitor"
+        },
+        {
+            "url": "meraki-auth-user",
+            "name": "Meraki Auth User"
+        },
+        {
+            "url": "create-organization-action-batch",
+            "name": "Create Organization Action Batch"
+        },
+        {
+            "url": "overview",
+            "name": "Overview"
+        },
+        {
+            "url": "create-organization-adaptive-policy-acl",
+            "name": "Create Organization Adaptive Policy Acl"
+        },
+        {
+            "url": "get-organization-adaptive-policy-acls",
+            "name": "Get Organization Adaptive Policy Acls"
+        },
+        {
+            "url": "create-organization-adaptive-policy-group",
+            "name": "Create Organization Adaptive Policy Group"
+        },
+        {
+            "url": "create-organization-adaptive-policy-policy",
+            "name": "Create Organization Adaptive Policy Policy"
+        },
+        {
+            "url": "create-organization-adaptive-policy",
+            "name": "Create Organization Adaptive Policy"
+        },
+        {
+            "url": "create-organization-adaptive-policy-settings",
+            "name": "Create Organization Adaptive Policy Settings"
+        },
+        {
+            "url": "create-organization-adaptive-policy-traffic-rules",
+            "name": "Create Organization Adaptive Policy Traffic Rules"
+        },
+        {
+            "url": "get-organization-adaptive-policy-settings",
+            "name": "Get Organization Adaptive Policy Settings"
+        },
+        {
+            "url": "update-organization-adaptive-policy-settings",
+            "name": "Update Organization Adaptive Policy Settings"
+        },
+        {
+            "url": "create-organization-adaptive-policy-customizations",
+            "name": "Create Organization Adaptive Policy Customizations"
+        },
+        {
+            "url": "update-organization-adaptive-policy-customizations",
+            "name": "Update Organization Adaptive Policy Customizations"
+        },
+        {
+            "url": "create-organization-adaptive-policy-algorithms",
+            "name": "Create Organization Adaptive Policy Algorithms"
+        },
+        {
+            "url": "get-organization-adaptive-policy-algorithms",
+            "name": "Get Organization Adaptive Policy Algorithms"
+        },
+        {
+            "url": "update-organization-adaptive-policy-algorithms",
+            "name": "Update Organization Adaptive Policy Algorithms"
+        },
+        {
+            "url": "create-organization-adaptive-policy-instance",
+            "name": "Create Organization Adaptive Policy Instance"
+        },
+        {
+            "url": "get-organization-adaptive-policy-instances",
+            "name": "Get Organization Adaptive Policy Instances"
+        },
+        {
+            "url": "update-organization-adaptive-policy-instances",
+            "name": "Update Organization Adaptive Policy Instances"
+        },
+        {
+            "url": "get-organization-promotions",
+            "name": "Get Organization Promotions"
+        },
+        {
+            "url": "create-organization-promotion",
+            "name": "Create Organization Promotion"
+        },
+        {
+            "url": "update-organization-promotion",
+            "name": "Update Organization Promotion"
+        },
+        {
+            "url": "delete-organization-promotion",
+            "name": "Delete Organization Promotion"
+        }
+    ]
+}

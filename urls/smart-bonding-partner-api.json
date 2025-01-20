@@ -1,0 +1,120 @@
+{
+    "urls": [
+        {
+            "url": "smart-bonding",
+            "name": "Smart Bonding"
+        },
+        {
+            "url": "introduction-to-smart-bonding",
+            "name": "Introduction to Smart Bonding"
+        },
+        {
+            "url": "smart-bonding-use-cases-for-partners",
+            "name": "Smart Bonding Use Cases for Partners"
+        },
+        {
+            "url": "use-cases",
+            "name": "Use Cases"
+        },
+        {
+            "url": "smart-bonding-api",
+            "name": "Smart Bonding API"
+        },
+        {
+            "url": "onboarding-process",
+            "name": "Onboarding Process"
+        },
+        {
+            "url": "application-registration",
+            "name": "Application Registration"
+        },
+        {
+            "url": "partner-self-onboarding",
+            "name": "Partner Self Onboarding"
+        },
+        {
+            "url": "getting-started-self-onboarding-api",
+            "name": "Getting started - Self Onboarding API"
+        },
+        {
+            "url": "getting-started-with-servicenow-app-installation",
+            "name": "Getting Started with ServiceNow App Installation"
+        },
+        {
+            "url": "authentication",
+            "name": "Authentication"
+        },
+        {
+            "url": "attachment-information",
+            "name": "Attachment Information"
+        },
+        {
+            "url": "api-changelog",
+            "name": "API Changelog"
+        },
+        {
+            "url": "entitlement-information",
+            "name": "Entitlement Information"
+        },
+        {
+            "url": "field-and-value-mapping",
+            "name": "Field and Value Mapping"
+        },
+        {
+            "url": "case-routing",
+            "name": "Case Routing"
+        },
+        {
+            "url": "interactive-api-documentation",
+            "name": "Interactive API Documentation"
+        },
+        {
+            "url": "smart-bonding-case-api-overview",
+            "name": "Overview"
+        },
+        {
+            "url": "get-ticket-updates",
+            "name": "Get ticket updates"
+        },
+        {
+            "url": "createupdate-ticket",
+            "name": "Create/update ticket"
+        },
+        {
+            "url": "smart-bonding-tsp-api-overview",
+            "name": "Overview"
+        },
+        {
+            "url": "get-tsp-codes",
+            "name": "Get TSP Codes"
+        },
+        {
+            "url": "postman-collection",
+            "name": "Postman Collection"
+        },
+        {
+            "url": "ping-to-okta-authentication-change",
+            "name": "Ping to Okta Authentication Change"
+        },
+        {
+            "url": "autorca",
+            "name": "AutoRCA"
+        },
+        {
+            "url": "developer-support",
+            "name": "Developer Support"
+        },
+        {
+            "url": "troubleshooting-for-servicenow-app",
+            "name": "Troubleshooting for ServiceNow App"
+        },
+        {
+            "url": "glossary",
+            "name": "Glossary"
+        },
+        {
+            "url": "community-support",
+            "name": "Community & Support"
+        }
+    ]
+}
