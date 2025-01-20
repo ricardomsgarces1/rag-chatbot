@@ -1,14 +1,13 @@
----
-title: Demo Cisco Devnet Chatbot
-emoji: 🏆
-colorFrom: indigo
-colorTo: yellow
-sdk: gradio
-sdk_version: 5.12.0
-app_file: app.py
-pinned: false
-license: apache-2.0
-short_description: Chat Bot able to respond questions about Cisco DevNet aPIs
----
+# RAG powered Chatbot
+Using this code, you will be able to create a chatbot that utilizes Retrieval-Augmented Generation (RAG) to answer questions about Cisco’s Smart Bonding Partner API, pulling information from publicly available documentation. After completing this tutorial, you should be able to easily adapt it, so the chatbot responds questions about your company or products.
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This chatbot is a proof of concept (PoC) to evaluate the feasibility of using retrieval-augmented generation (RAG) based on publicly available DevNet documentation for Cisco APIs.
+Please note:
+
+- The information provided by this chatbot may be outdated or incorrect.
+- For accurate and up-to-date information, always refer to the official Cisco Developer documentation: Cisco DevNet Docs.
+
+# Prerequisites
+- Basic knowledge of Python.
+- An OpenAI API key.
+- Python installed on your system (preferably version 3.8 or higher).
